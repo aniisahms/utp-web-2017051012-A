@@ -1,0 +1,24 @@
+body {
+    background-image: url("https://papers.co/wallpaper/papers.co-ap63-minimal-honey-yellow-art-illustration-cute-29-wallpaper.jpg");
+    padding: 20px;
+}
+
+nav {
+    border-radius: 20px;
+}
+
+table {
+    position: relative;
+    top: 20px;
+}
+
+table, tr, td, th {
+    border-collapse: separate;
+    border-radius: 10px;
+    border:  1.5px solid white;
+    padding: 7px;
+}
+
+img {
+    border-radius: 10px;
+}
